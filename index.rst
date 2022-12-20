@@ -8,9 +8,9 @@ Welcome to 明远智睿的文档's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 目录
 
-
+   docs/index
 
 Indices and tables
 ==================
